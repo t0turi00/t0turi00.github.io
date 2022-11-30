@@ -1,1 +1,2 @@
-# t0turi00.github.io
+# Ryhmä 13 Reseptisovellus nimeltä Mahtis
+Sovelluksessa voi selata reseptejä ja hakea niitä nimellä

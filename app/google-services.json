@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186434466662",
+    "project_id": "mahtis-a898e",
+    "storage_bucket": "mahtis-a898e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186434466662:android:8b71baaab0b8f3da8c4ea7",
+        "android_client_info": {
+          "package_name": "com.example.mahtis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186434466662-eaaiqcnoojfgp8k5hv1r04vhd2r19ban.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtP9PMb_tU13vP2aqUraysX0PPu9Qxs4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186434466662-eaaiqcnoojfgp8k5hv1r04vhd2r19ban.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
