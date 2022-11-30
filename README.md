@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+
 # t0turi00.github.io
 =======
 
