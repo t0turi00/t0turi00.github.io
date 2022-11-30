@@ -7,7 +7,9 @@ This was a Flutter project for Web- and Hybrid Technologies in Mobile Programmin
 
 
 Main screen
+
 ![Dice](https://user-images.githubusercontent.com/79054967/204859704-b88b0d64-5d13-46c3-a616-04402da30e39.PNG)
+
 Options to increase dice count
 
 ![Dice 4](https://user-images.githubusercontent.com/79054967/204859896-09c90cf9-04fb-41c4-a1fe-065881b08a2b.PNG)
