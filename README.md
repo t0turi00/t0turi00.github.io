@@ -1,6 +1,7 @@
 # Ryhmä 13 Reseptisovellus nimeltä Mahtis
 Sovelluksessa voi selata reseptejä ja hakea niitä nimellä
 
+Recipe application called Mahtis which has a joke name since we couldn't come up with a better name, so it stayed
 
 Main view with recipes, but the Firebase database is no longer running
 ![Recipeapp](https://user-images.githubusercontent.com/79054967/204860403-e8adefc7-2c0f-4135-9ba5-270e4e3c4a9e.PNG)
