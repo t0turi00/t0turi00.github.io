@@ -1,9 +1,12 @@
 <<<<<<< Updated upstream
-# t0turi00.github.io
+# t0turi00.resume
 =======
 # diceapp
 
-A new Flutter project.
+A Flutter project for Web- and Hybrid Technologies in Mobile Programming.
+
+![Dice](https://user-images.githubusercontent.com/79054967/204859704-b88b0d64-5d13-46c3-a616-04402da30e39.PNG)
+
 
 ## Getting Started
 
