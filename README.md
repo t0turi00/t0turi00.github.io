@@ -61,6 +61,18 @@ All objects, animations and characters have been created by me. I used Blender t
 <br />
 <br />
 
+**Game Over View**
+
+<img width="1528" alt="image" src="https://github.com/t0turi00/t0turi00.resume/assets/79054967/bbc833ef-45b8-4aa0-b03d-97f9944819b0">
+
+<br />
+<br />
+
+**It consists of** <br />
+* Restart <br />
+* Menu <br />
+* Collected coins(Tuna), Score during the run and Top Highscore
+* Current Coins (Right Bottom Corner)
 
 
 
