@@ -121,7 +121,6 @@ The Main Run Animation
 <br />
 
 Textured Tuna can
-
 <br />
 
 <img width="1562" alt="image" src="https://github.com/t0turi00/t0turi00.resume/assets/79054967/abac89fb-101e-450c-a5ce-fe865472b242">
