@@ -84,6 +84,10 @@ All objects, animations and characters have been created by me. I used Blender t
 <br />
 
 **Blender**
+
+<br />
+<br />
+
 <img width="1589" alt="image" src="https://github.com/t0turi00/t0turi00.resume/assets/79054967/4b89dc9a-314d-409c-9e3f-95ce223f2a06">
 <br />
 Retopogilized Cat 
