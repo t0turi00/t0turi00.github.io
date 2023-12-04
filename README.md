@@ -74,5 +74,13 @@ All objects, animations and characters have been created by me. I used Blender t
 * Collected coins(Tuna), Score during the run and Top Highscore
 * Current Coins (Right Bottom Corner)
 
+<br />
+<br />
+
+**The Blueprint Code How The Next Spawning Tile Is Decided From 9 Different Tiles.
+<img width="1109" alt="image" src="https://github.com/t0turi00/t0turi00.resume/assets/79054967/50815464-6387-4a6a-9f91-7ca5ddac042e">
+
+<br />
+<br />
 
 
