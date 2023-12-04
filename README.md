@@ -77,10 +77,29 @@ All objects, animations and characters have been created by me. I used Blender t
 <br />
 <br />
 
-**The Blueprint Code How The Next Spawning Tile Is Decided From 9 Different Tiles.
+**The Blueprint Code How The Next Spawning Tile Is Decided From 9 Different Tiles**
 <img width="1109" alt="image" src="https://github.com/t0turi00/t0turi00.resume/assets/79054967/50815464-6387-4a6a-9f91-7ca5ddac042e">
 
 <br />
 <br />
+
+**Blender**
+<img width="1589" alt="image" src="https://github.com/t0turi00/t0turi00.resume/assets/79054967/4b89dc9a-314d-409c-9e3f-95ce223f2a06">
+<br />
+Retopogilized Cat 
+
+<br />
+<br />
+
+<img width="1585" alt="image" src="https://github.com/t0turi00/t0turi00.resume/assets/79054967/babf688e-2a19-4f53-9f3d-33d998607a54">
+<br />
+Cat With Rig
+
+<br />
+<br />
+
+<img width="1592" alt="image" src="https://github.com/t0turi00/t0turi00.resume/assets/79054967/ba9d13cf-a0ab-4217-ab25-d71fa0ccdf32">
+<br />
+The Main Run Animation
 
 
