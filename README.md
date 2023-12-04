@@ -14,6 +14,8 @@ All objects, animations and characters have been created by me. I used Blender t
 
 <br />
 <br />
+<br />
+<br />
 
 **It consists of** <br />
 * Play <br />
@@ -28,6 +30,10 @@ All objects, animations and characters have been created by me. I used Blender t
 <img width="1533" alt="image" src="https://github.com/t0turi00/t0turi00.resume/assets/79054967/92dc67b2-bf22-4655-86ae-24cd1f099d10">
 
 <br />
+<br />
+<br />
+<br />
+
 
 **It consists of** <br />
 * Main Game View <br />
