@@ -93,20 +93,31 @@ All objects, animations and characters have been created by me. I used Blender t
 Retopogilized Cat 
 <br />
 <img width="1589" alt="image" src="https://github.com/t0turi00/t0turi00.resume/assets/79054967/4b89dc9a-314d-409c-9e3f-95ce223f2a06">
-<br />
 
 <br />
 <br />
-
-<img width="1585" alt="image" src="https://github.com/t0turi00/t0turi00.resume/assets/79054967/babf688e-2a19-4f53-9f3d-33d998607a54">
 <br />
+<br />
+
 Cat With Rig
+<img width="1585" alt="image" src="https://github.com/t0turi00/t0turi00.resume/assets/79054967/babf688e-2a19-4f53-9f3d-33d998607a54">
 
 <br />
+<br />
+<br />
+<br />
+
+The Main Run Animation
 <br />
 
 <img width="1592" alt="image" src="https://github.com/t0turi00/t0turi00.resume/assets/79054967/ba9d13cf-a0ab-4217-ab25-d71fa0ccdf32">
+
 <br />
-The Main Run Animation
+<br />
+<br />
+<br />
+
+
+
 
 
