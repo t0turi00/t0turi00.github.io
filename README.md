@@ -45,7 +45,7 @@ https://youtu.be/ayCY7aF5K7g
 * Main Game View <br />
 * Points (The First From The Top Right Corner) <br />
 * Coins collected during a run (The Second From The Top Right Corner) <br />
-* HighSchore (The Third From The Top Right Corner) <br />
+* HighScore (The Third From The Top Right Corner) <br />
 * Pause (Top Left Corner) <br />
 
 <br />
