@@ -125,6 +125,13 @@ Textured Tuna can
 
 <img width="1562" alt="image" src="https://github.com/t0turi00/t0turi00.resume/assets/79054967/abac89fb-101e-450c-a5ce-fe865472b242">
 
+<br />
+<br />
+<br />
+<br />
 
+# ZBRush
+
+<img width="1746" alt="image" src="https://github.com/t0turi00/t0turi00.resume/assets/79054967/5c2ad648-cb5a-47fc-b3c0-917efbe1efa0">
 
 
