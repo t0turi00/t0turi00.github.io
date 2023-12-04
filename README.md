@@ -24,6 +24,15 @@ All objects, animations and characters have been created by me. I used Blender t
 
 <img width="1533" alt="image" src="https://github.com/t0turi00/t0turi00.resume/assets/79054967/92dc67b2-bf22-4655-86ae-24cd1f099d10">
 
+**It consists of** <br />
+* Main Game View <br />
+* Points (The First From The Top Right Corner) <br />
+* Coins collected during a run (The Second From The Top Right Corner) <br />
+* HighSchore (The Third From The Top Right Corner) <br />
+* Pause (Top Left Corner) <br />
+
+<br />
+
 <br />
 
 **Pause View**
