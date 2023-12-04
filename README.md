@@ -14,8 +14,7 @@ All objects, animations and characters have been created by me. I used Blender t
 
 <br />
 <br />
-<br />
-<br />
+
 
 **It consists of** <br />
 * Play <br />
@@ -24,6 +23,7 @@ All objects, animations and characters have been created by me. I used Blender t
 * Current Coins ( Right Corner) <br />
 
 <br />
+<br />
 
 **The Game View**
 
@@ -31,8 +31,7 @@ All objects, animations and characters have been created by me. I used Blender t
 
 <br />
 <br />
-<br />
-<br />
+
 
 
 **It consists of** <br />
@@ -43,7 +42,6 @@ All objects, animations and characters have been created by me. I used Blender t
 * Pause (Top Left Corner) <br />
 
 <br />
-
 <br />
 
 **Pause View**
