@@ -132,6 +132,14 @@ Textured Tuna can
 
 # ZBRush
 
+<br />
+<br />
+
 <img width="1746" alt="image" src="https://github.com/t0turi00/t0turi00.resume/assets/79054967/5c2ad648-cb5a-47fc-b3c0-917efbe1efa0">
 
+<br />
+<br />
 
+The Pologyn Count is Quite High Here (852055), so the model had to be retopoligized for to be able to animate it.
+<br />
+<img width="290" alt="image" src="https://github.com/t0turi00/t0turi00.resume/assets/79054967/e48ecf4c-a3ff-46ef-b319-ce143cc0e5fc">
