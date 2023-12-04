@@ -141,6 +141,6 @@ The Main Character I sculpted In ZBrush
 <br />
 <br />
 
-The Pologyn Count is Quite High Here (852055), so the model had to be retopoligized to be able to animate it.
+The polygon count is very high in this model (852055), so it had to be retopoligized to be able to animate it.
 <br />
 <img width="290" alt="image" src="https://github.com/t0turi00/t0turi00.resume/assets/79054967/e48ecf4c-a3ff-46ef-b319-ce143cc0e5fc">
