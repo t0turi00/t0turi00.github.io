@@ -49,6 +49,17 @@ All objects, animations and characters have been created by me. I used Blender t
 
 <img width="1529" alt="image" src="https://github.com/t0turi00/t0turi00.resume/assets/79054967/330741ff-6003-4a63-aed8-511a02ead473">
 
+<br />
+<br />
+
+
+**It consists of** <br />
+* Continue <br />
+* Leave <br />
+
+
+<br />
+<br />
 
 
 
