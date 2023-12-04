@@ -8,8 +8,29 @@ All objects, animations and characters have been created by me. I used Blender t
 
 <br />
 
-The Main Menu Of The Game
+**The Main Menu of the game**
 
 <img width="1529" alt="image" src="https://github.com/t0turi00/t0turi00.resume/assets/79054967/f11cf8c4-8e95-44f7-b3de-3106c69c9c39">
+
+It consists of 
+[] Play
+[] Shop (Not Implemented Yet)
+[] Exit
+[] Current Coins ( Right Corner) 
+
+<br />
+
+**The Game View**
+
+<img width="1533" alt="image" src="https://github.com/t0turi00/t0turi00.resume/assets/79054967/92dc67b2-bf22-4655-86ae-24cd1f099d10">
+
+<br />
+
+**Pause View**
+
+<img width="1529" alt="image" src="https://github.com/t0turi00/t0turi00.resume/assets/79054967/330741ff-6003-4a63-aed8-511a02ead473">
+
+
+
 
 
